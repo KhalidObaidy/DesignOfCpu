@@ -1,0 +1,220 @@
+C:/Modeltech_pe_edu_10.4a/finalproject/shift_left_2.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/shift_left_2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_extend
+-- Compiling module shift_left_2
+
+Top level modules:
+	sign_extend
+	shift_left_2
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/StallControl.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/StallControl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module StallControl
+
+Top level modules:
+	StallControl
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/dataMem.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/dataMem.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dataMem
+
+Top level modules:
+	dataMem
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/Control.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/Control.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/mux3x32to32.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/mux3x32to32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux3x32to32
+
+Top level modules:
+	mux3x32to32
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/alu.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+-- Compiling module alu1bit
+-- Compiling module addsub
+-- Compiling module adder
+-- Compiling module mux21
+
+Top level modules:
+	alu
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/finalproject/Forwarding Unit.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/finalproject/Forwarding Unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/mux32to1.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/mux32to1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux32to1
+
+Top level modules:
+	mux32to1
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/flush_block.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/flush_block.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module flush_block
+-- Compiling module Discard_Instr
+
+Top level modules:
+	flush_block
+	Discard_Instr
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/regfile.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/regfile.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/MIPSpipeline.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/MIPSpipeline.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MIPSpipeline
+
+Top level modules:
+	MIPSpipeline
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/MIPSStimulus.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/MIPSStimulus.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MIPSStimulus
+
+Top level modules:
+	MIPSStimulus
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/JRControl_Block.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/JRControl_Block.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module JRControl_Block
+
+Top level modules:
+	JRControl_Block
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/sign_extend.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/sign_extend.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_extend
+-- Compiling module shift_left_2
+
+Top level modules:
+	sign_extend
+	shift_left_2
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/adder1bit.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/adder1bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder1bit
+
+Top level modules:
+	adder1bit
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/mux2x5to5.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/mux2x5to5.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2x5to5
+-- Compiling module mux2_1
+
+Top level modules:
+	mux2x5to5
+	mux2_1
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/mux2x32to32.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/mux2x32to32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2x32to32
+
+Top level modules:
+	mux2x32to32
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/InstructionMem.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/InstructionMem.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module InstructionMem
+-- Compiling module instrmemstimulous
+
+Top level modules:
+	instrmemstimulous
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/Add.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/Add.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Add
+
+Top level modules:
+	Add
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/dec5to32.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/dec5to32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dec5to32
+
+Top level modules:
+	dec5to32
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/mux32x32to32.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/mux32x32to32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux32x32to32
+
+Top level modules:
+	mux32x32to32
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/ALUControl_Block.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/ALUControl_Block.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALUControl_Block
+
+Top level modules:
+	ALUControl_Block
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/WB_forward.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/WB_forward.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module WB_forward
+-- Compiling module CompareAddress
+
+Top level modules:
+	WB_forward
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/RegBit.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/RegBit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RegBit
+
+Top level modules:
+	RegBit
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/register.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/register.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/decoder.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module decoder
+-- Compiling module andmore
+-- Compiling module dec5to32
+
+Top level modules:
+	decoder
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/andmore.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/andmore.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module andmore
+
+Top level modules:
+	andmore
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/zero_extend.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/zero_extend.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module zero_extend
+
+Top level modules:
+	zero_extend
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/finalproject/D_FF.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/finalproject/D_FF.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module D_FF
+
+Top level modules:
+	D_FF
+
+} {} {}}
